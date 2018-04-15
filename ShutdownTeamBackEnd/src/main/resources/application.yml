@@ -1,0 +1,8 @@
+app:
+  name: BanqueSI
+  user_cookie: user
+
+jwt:
+  header: Authorization
+  expires_in: 600
+  secret: mysecret
